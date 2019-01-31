@@ -1,3 +1,2 @@
 # hello-world
-Hello world!!!
-Que tranza la banda!
+Este es un nuevo mundo
